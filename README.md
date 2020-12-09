@@ -17,7 +17,7 @@ cd vanilla-redux
 ```
 
 ```
-yarn init
+yarn init -y
 ```
 
 <br>
